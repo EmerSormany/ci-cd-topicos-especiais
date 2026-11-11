@@ -1,0 +1,21 @@
+{
+  "name": "ci-cd-topicos-especiais",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soma.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmerSormany/ci-cd-topicos-especiais.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/EmerSormany/ci-cd-topicos-especiais/issues"
+  },
+  "homepage": "https://github.com/EmerSormany/ci-cd-topicos-especiais#readme"
+}
